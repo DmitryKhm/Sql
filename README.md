@@ -1,13 +1,14 @@
 # SQL Project
 
 ## Setup
-Run in order:
+Порядок:
 1. create.sql
 2. insert.sql
 3. solutions.sql
 
 ## Description
-Contains tasks for:
-- Vehicles
-- Racing
-- Hotel bookings
+Задачи для:
+- Транспорт
+- Гонки
+- Отель
+- Сотрудники
